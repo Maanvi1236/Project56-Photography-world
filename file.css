@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: turquoise;
+    border: 10px #ff85e4 solid;
+    font-size: 18px;
+    background-image: url('data:image/svg+xml,%3Csvg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"%3E%3Cg fill="%239C92AC" fill-opacity="0.4" fill-rule="evenodd"%3E%3Cpath d="M0 40L40 0H20L0 20M40 40V20L20 40"/%3E%3C/g%3E%3C/svg%3E');
+}
+
+img {
+    height:150px;
+    width: 100px;
+    border: 10px #04015c solid;
+    border-style: double;
+    border-radius: 45px;
+    background-color: pink;
+}
+
+h1 {
+    background-color: yellowgreen;
+    border: 8px yellow solid;
+    font-family: Lora, sans-serif;
+}
+
+h2 {
+    font-family: Lora, sans-serif;
+}
+
+h3 {
+    background-color: teal;
+    font-family: Lora, sans-serif;
+}
+
+h4 {
+    background-color: teal;
+    font-family: Lora, sans-serif;
+}
